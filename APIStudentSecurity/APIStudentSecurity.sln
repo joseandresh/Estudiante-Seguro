@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIStudentSecurity", "APIStudentSecurity\APIStudentSecurity.csproj", "{1C61D202-C9C3-4763-AE4D-4D0C13317C42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C61D202-C9C3-4763-AE4D-4D0C13317C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C61D202-C9C3-4763-AE4D-4D0C13317C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C61D202-C9C3-4763-AE4D-4D0C13317C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C61D202-C9C3-4763-AE4D-4D0C13317C42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7FF8E70-C3FD-4436-BFC6-1D85338A9641}
+	EndGlobalSection
+EndGlobal
